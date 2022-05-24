@@ -10,6 +10,6 @@ Berserk - mayham.
 
 # Update 23/05/2022 anti-bot dectection
 working towards an anti-bot dectection that uses deep learning. 
-I would need to gather data and display the percentage of a player being a bot or not. 
-This will be hard for gathering data in game. 
+I would need to gather data and display the percentage of a player being a bot or not in the open world enviroment. 
+This will be hard for gathering data in game for open world
 
